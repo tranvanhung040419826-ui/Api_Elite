@@ -1,10 +1,12 @@
 {
   "name": "elite-tracker-web",
   "version": "1.0.0",
+  "description": "API Tracker Elite Boss Sea 3",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
+  "author": "tranduykhanh",
   "dependencies": {
     "express": "^4.19.2"
   }
